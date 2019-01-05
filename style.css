@@ -1,6 +1,8 @@
 form{
 	width: 300px;
 	margin: 100px auto;
+	padding: 30px;
+	background-color: pink;
 }
 form input{
 	width: 100%;
